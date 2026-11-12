@@ -1,0 +1,24 @@
+Shangri-La | 2026 YTD Performance,,,
+January–November 2026 | Source data currently available through October,,,
+Sales are reported in Philippine pesos (?) in the source file; no currency conversion was applied. Requested “Total Sales ($)” header retained.,,,
+,,,
+Month,Total Sales ($),Total Transactions,Average Transaction Value (ATV)
+January,"?5,326,739.98","334,054",?15.95
+February,"?5,049,225.13","320,543",?15.75
+March,"?5,370,078.16","323,130",?16.62
+April,"?4,413,577.82","288,309",?15.31
+May,"?5,638,487.90","347,930",?16.21
+June,"?4,979,079.89","317,871",?15.66
+July,"?5,283,024.41","311,874",?16.94
+August,"?5,592,524.17","310,240",?18.03
+September,"?6,899,393.51","309,521",?22.29
+October,"?7,548,362.08","271,580",?27.79
+November,,,
+,,,
+Executive Key Insights,,,
+"•  Transaction volume peaked in May (347,930) and reached its low in October (271,580).",,,
+"•  October transactions fell 12.3% MoM, while sales rose 9.4% from September.",,,
+"•  Across January–October, transactions and sales had a -0.38 Pearson correlation, indicating a weak negative relationship.",,,
+,,,
+,,,
+"Source: SHANG MONTHLY TRANSACTION - SHANG MONTHLY TRANSACTION.csv | Sales summed across Shang Kiosk, Shang Mall, and Shang 2 Mall; transactions summed across branch records.",,,
